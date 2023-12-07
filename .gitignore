@@ -1,0 +1,11 @@
+
+*.png
+*.log
+*.ckpt
+*.pth
+*.pyc
+*.json
+*.txt
+*.0
+*.gz
+*.pt
